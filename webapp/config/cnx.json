@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    //mywebapp
+    //"myDb": "Server=WINDEV2010EVAL\\SQLEXPRESS;Database=webappdb4;User Id=sa;Password=admin;TrustedConnection=true",
+    //myappweb
+    "myDb": "Server=WINDEV2010EVAL\\SQLEXPRESS;Database=myapp;User Id=sa;Password=admin;"
+  }
+}
